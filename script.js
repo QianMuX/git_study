@@ -1,1 +1,3 @@
-console.log("")
+const main = () => {
+	alert("Hello World!!");
+};
